@@ -38,6 +38,7 @@ uv run ./02_MonteCarlo_Integration.py
 
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/56951041-6458-4255-8ee9-e6f32efec536" />
 
+
 Ми обчислюємо визначений інтеграл функції $f(x) = x^2$ на відрізку $[0, 2]$.
 
 Аналітичне значення обчислюється за формулою Ньютона-Лейбніца:
